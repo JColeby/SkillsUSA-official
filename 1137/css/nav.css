@@ -82,6 +82,7 @@ body{
     margin: 15px 0;
     transition: .15s;
     text-align: center;
+    color: #1e3050;
 }
 
 .nav-link-wrapper i{
@@ -97,7 +98,7 @@ body{
 
 
 .nav-link-wrapper > .link-nav:hover{
-    color:#777777;
+    color:#050d1a;
 }
 
 
