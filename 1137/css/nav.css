@@ -132,7 +132,7 @@ body{
     align-items: center;
     justify-content: space-around;
 
-    background-image: linear-gradient(to right, #ecf8ed, #f7fff8 , #ecf8ed);
+    background-image: linear-gradient(to right, #f7fff8 , #ecf8ed, #f7fff8);
 }
 
 
