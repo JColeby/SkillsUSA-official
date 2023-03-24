@@ -141,8 +141,8 @@ body{
 
 .map{
     border-radius: 15px;
-    border: 1px solid black;
-    box-shadow: 3px 3px 10px 0 #000000bb;
+    border: 1px solid var(--blue);
+    box-shadow: 3px 3px 10px #1e3050bb;
 }
 
 .map > iframe{
@@ -157,6 +157,10 @@ body{
 }
 
 .video > video{
-    width: 800px;
-    height: 450px;
+    width: 60vw;
+    height: 100%;
+    border-radius: 15px;
+    border: 1px solid var(--blue);
+
+    box-shadow: 3px 3px 10px #1e3050bb;
 }
