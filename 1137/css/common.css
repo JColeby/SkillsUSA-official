@@ -1,0 +1,16 @@
+:root{
+    --blue: #1e3050;
+    --yellow: #cfcd99;
+    --green: #005838;
+}
+
+h1, h2, h3, h4, h5 ,h6{
+    color: var(--blue);
+}
+p{
+    color: var(--green);
+}
+
+body{
+    background-image: linear-gradient(to bottom right, #f6f9f78e,#edf4ed );
+}
