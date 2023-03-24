@@ -110,8 +110,17 @@ body{
 /* form styles */
 
 h4{
-    margin-left: 18px;
-    margin-bottom: 3px;
+    margin-left: 19px;
+    margin-bottom: 10px;
+}
+
+.decription{
+    margin-bottom: 5px;
+    margin-top: -5px;
+}
+
+.name-form > .decription{
+    margin-left: 19px;
 }
 
 .text-box, .select-form{
