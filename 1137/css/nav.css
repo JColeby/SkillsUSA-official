@@ -22,7 +22,7 @@ body{
     display:flex;
     align-items: center;
     justify-content: flex-start;
-    background-image: linear-gradient(to right, #ebf2ec , #c7e2ca);
+    background-image: linear-gradient(to right, #ebf2ec , #c7e2cae4);
 }
 
 
