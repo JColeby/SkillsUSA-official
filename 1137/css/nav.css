@@ -3,3 +3,24 @@
     --yellow: #cfcd99;
     --green: #005838;
 }
+
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+/* header styles */
+
+#head{
+    border-bottom: 1px solid black;
+    box-shadow: 0 0 10px 0 #0000000b ;
+    height: 100px;
+    width: 100%;
+    z-index: 3;
+
+}

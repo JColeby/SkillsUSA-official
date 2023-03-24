@@ -3,3 +3,47 @@
     --yellow: #cfcd99;
     --green: #005838;
 }
+
+
+body{
+    display: grid;
+    grid-template-rows: 100px 300px 1fr auto auto auto;
+    grid-template-columns: 125px 1fr 1fr 1fr;
+    grid-template-areas: 
+        "nav head head head"
+        "nav s1 s1 s1"
+        "nav s2 s2 s2"
+        "nav s3 s3 s3"
+        "nav s4 s4 s4"
+        "nav foot foot foot"
+    ;
+}
+
+#head{
+    grid-area: head;
+}
+
+#nav{
+    grid-area: nav;
+}
+
+#s1{
+    grid-area: s1;
+}
+
+
+#s2{
+    grid-area: s2;
+}
+
+#s3{
+    grid-area: s3;
+}
+
+#s4{
+    grid-area: s4;
+}
+
+#foot{
+    grid-area: foot;
+}
