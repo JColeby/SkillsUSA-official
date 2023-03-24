@@ -11,15 +11,6 @@ body{
 
 }
 
-.logo > img{
-    width: 110px;
-    padding: 7.5px;
-}
-
-.nav-hr{
-    margin-top: 0px;
-}
-
 /* header styles */
 
 #head{
@@ -52,8 +43,10 @@ body{
     width:calc(100% - 20px);
     padding:10px;
     height: auto;
+}
 
-
+.logo > img{
+    width: 100%;
 }
 
 
