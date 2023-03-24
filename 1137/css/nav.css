@@ -133,19 +133,20 @@ body{
 
 
 
-#footer > div{
+#foot > div{
     width: 350px;
     text-align: center;
 
 }
 
-#footer div h6{
+#foot div h6{
      font-size: 1.3em;
      margin: 30px 5px;
 }
 
-#footer div h6 i{
-    font-size: 1.3em;
+#foot i{
+    font-size: 2em;
+    padding: 10px;
     
 }
 
