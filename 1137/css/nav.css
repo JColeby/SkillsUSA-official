@@ -83,9 +83,13 @@ body{
     justify-content: center;
     flex-direction: column;
     margin: 15px 0;
-    transition: .15s;
+    transition: .25s;
     text-align: center;
     color: #1e3050;
+}
+
+#nav > .nav-link-wrapper > .link-nav:hover{
+    color:#050d1a;
 }
 
 .nav-link-wrapper i{
@@ -98,11 +102,6 @@ body{
     margin-top: 3px;
     font-size: 1.2em;
     color: var(--blue);
-}
-
-
-.nav-link-wrapper > .link-nav:hover{
-    color:#050d1a;
 }
 
 
