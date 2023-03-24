@@ -149,3 +149,14 @@ body{
 .map > iframe{
     border-radius: 15px;
 }
+
+.video-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video > video{
+    width: 800px;
+    height: 450px;
+}

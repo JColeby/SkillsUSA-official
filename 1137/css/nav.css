@@ -141,10 +141,15 @@ body{
 
 }
 
-#foot div h6{
-     font-size: 1.3em;
+#foot > div > h6{
+     font-size: 1em;
      margin: 30px 5px;
 }
+#foot > div > h6 > a{
+   padding: 5px;
+   color: var(--blue);
+}
+
 
 #foot i{
     font-size: 2em;
