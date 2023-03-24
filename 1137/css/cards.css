@@ -1,0 +1,15 @@
+:root{
+    --blue: #1e3050;
+    --yellow: #cfcd99;
+    --green: #005838;
+}
+
+.card{
+    border: 2px solid var(--blue);
+    filter: brightness(0.95) opacity(0.9);
+    
+}
+
+.card:hover{
+    filter: brightness(1.1) opacity(1);
+}
