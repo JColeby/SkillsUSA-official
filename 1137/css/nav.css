@@ -45,7 +45,10 @@ body{
 }
 
 .logo > img{
-    width: 100%;
+    display: block;
+    width: 90px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -143,4 +146,14 @@ body{
 #footer div h6 i{
     font-size: 1.3em;
     
+}
+
+@media screen and (max-height: 1000px) {
+    .nav-link-wrapper i{
+        font-size: 1.8em;
+        margin: -5px;
+    }
+    #nav > .nav-link-wrapper{
+        padding-top: 5px;
+    }
 }
