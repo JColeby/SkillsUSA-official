@@ -52,7 +52,6 @@ body{
 /* into text */
 .intro-wrapper{
     margin: 20px 5%;
-    width:1500px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -151,6 +150,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 3%;
 }
 
 .video > video{
