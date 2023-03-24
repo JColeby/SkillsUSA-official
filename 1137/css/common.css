@@ -10,7 +10,3 @@ h1, h2, h3, h4, h5 ,h6{
 p{
     color: var(--green);
 }
-
-body{
-    background-image: linear-gradient(to bottom right, #f6f9f78e,#edf4ed );
-}

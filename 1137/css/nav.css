@@ -11,8 +11,14 @@ body{
 
 }
 
+.logo > img{
+    width: 110px;
+    padding: 7.5px;
+}
 
-
+.nav-hr{
+    margin-top: 0px;
+}
 
 /* header styles */
 
