@@ -15,6 +15,13 @@ p{
 }
 
 
+.section{
+    padding:20px 0;
+    border-bottom: 1px solid #00000044;
+}
+
+
+
 
 .img-main{
     width: 100%;
