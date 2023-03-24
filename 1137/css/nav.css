@@ -147,8 +147,9 @@ body{
 #foot i{
     font-size: 2em;
     padding: 10px;
-    
+    color: var(--blue);
 }
+
 
 @media screen and (max-height: 1000px) {
     .nav-link-wrapper i{
