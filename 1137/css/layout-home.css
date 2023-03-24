@@ -153,6 +153,8 @@ body{
     border-radius: 15px;
 }
 
+/*Video Section*/
+
 .video-section{
     display: flex;
     align-items: center;
@@ -169,4 +171,8 @@ body{
     margin: 50px;
 
     box-shadow: 3px 3px 10px #1e3050bb;
+}
+
+.video-text{
+    width: 40vw;
 }

@@ -89,9 +89,12 @@ body{
     color: #1e3050;
 }
 
-#nav > .nav-link-wrapper > .link-nav:hover{
-    color:#050d1a;
+#nav > .nav-link-wrapper > .link-nav:hover,#nav > .nav-link-wrapper > .link-nav:hover p{
+    color:black;
 }
+
+
+
 
 .nav-link-wrapper i{
     font-size: 3em;
