@@ -6,9 +6,12 @@
 
 h1, h2, h3, h4, h5 ,h6{
     color: var(--blue);
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
 }
 p{
     color: var(--green);
+    font-family: 'Abel', sans-serif;
 }
 
 
@@ -25,4 +28,9 @@ p{
 body{
     background-image: linear-gradient(315deg, #68936950, transparent);
 
+}
+
+.section-head{
+    text-align: center;
+    font-size: 1.2em;
 }
